@@ -1,0 +1,19 @@
+.item{
+  
+    display: flex;
+    justify-content: space-between;
+    
+}
+.list{
+  
+list-style-type:none;
+
+}
+
+.btnDel{
+  font-weight: 550;
+  cursor: pointer;
+margin-left: 25px;
+margin-bottom: 10px;
+    
+}
